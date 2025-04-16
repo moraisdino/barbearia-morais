@@ -1,4 +1,36 @@
-html {
-  height: 100%;
+
+h1{
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+
+#missão{
+
+  font-size: 20px;
+}
+
+img{
+
   width: 100%;
+
+}
+.beneficios{
+
+
+  backgroud-color: #FFFFF;
+}
+.item{
+  font-style: italic;
+}
+.imagem-beneficios{
+  width:50%
+}
+ul{
+  display: inline-block;
+  vertical-align: top;
+  width:20%;dvanced - 1
+  In the news
+  margin-right:15%;
 }
