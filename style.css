@@ -1,36 +1,49 @@
 
-h1{
-  text-align: center;
-}
-p{
-  text-align: center;
+#banner {
+    width: 100%;
 }
 
-#missão{
-
-  font-size: 20px;
+.principal {
+    background: #CCCCCC;
+    padding: 30px;
 }
 
-img{
-
-  width: 100%;
-
+.titulo-principal {
+    padding-left: 20px;
 }
-.beneficios{
 
+.titulo-centralizado {
+    text-align: center;
+}
 
-  backgroud-color: #FFFFF;
+p {
+    text-align: center;
 }
-.item{
-  font-style: italic;
+
+#missao {
+    font-size: 20px;
 }
-.imagem-beneficios{
-  width:50%
+
+em strong {
+    color: #FF0000;
 }
-ul{
-  display: inline-block;
-  vertical-align: top;
-  width:20%;dvanced - 1
-  In the news
-  margin-right:15%;
+
+.itens {
+    font-style: italic;
+}
+
+.beneficios {
+    background: #FFFFFF;
+    padding: 20px;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagembeneficios {
+    width: 50%;
 }
